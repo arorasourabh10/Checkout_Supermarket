@@ -1,0 +1,4 @@
+1	apples	0.40	3FOR90
+2	bananas	0.75	10For6
+3	coconuts	2.00	2For3
+4	donuts	0.50	NONE
